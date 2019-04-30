@@ -1,4 +1,4 @@
-filer=open("raamattu.txt", "r")
+filer=open("raamattu.txt", "r") #Remember to add utf8 charset afterwards & save as UTF8 in notepad or equivalent
 filew=open("raamattu.html", "w")
 kirja = ""
 vkirja = ""
